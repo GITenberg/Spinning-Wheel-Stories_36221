@@ -1,0 +1,37 @@
+_repo: Spinning-Wheel-Stories_36221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_issued: '2011-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: Grandma's story -- Tabby's table-cloth -- Eli's education -- Onawandah
+  -- Little things -- The banner of Beaumanoir -- Jerseys; or, The girl's ghost --
+  The little house in the garden -- Daisy's jewel-box, and how she filled it -- Corny's
+  catamount -- The cooking-class -- The hare and the tortoise.
+title: Spinning-Wheel Stories
+url: http://www.gutenberg.org/ebooks/36221
